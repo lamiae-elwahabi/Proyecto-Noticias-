@@ -1,0 +1,28 @@
+[{
+  "id": "new_4",
+  "nav_element":"Noticia 4",
+  "titulo":"El colesterol bueno reduce la expansión de las células del cáncer",
+  "desc": "El colesterol malo es un factor de riesgo bien conocido para el infarto y otras enfermedades vasculares. Pero un equipo internacional dirigido por Carlos Enrich, de la Universidad de Barcelona, le apunta ahora también como un probable responsable de las metástasis, las réplicas de un tumor en otros órganos que suelen matar a los pacientes de cáncer. En modelos celulares del cáncer humano, los científicos demuestran que el colesterol malo (LDL, o lipoproteínas de baja densidad) estimula a las células cancerosas a moverse y diseminarse. A la inversa, el colesterol bueno (HDL, o lipoproteínas de alta densidad) se opone a esos mismos mecanismos moleculares. El trabajo indica una nueva estrategia contra la metástasis, el verdadero verdugo de las personas con cáncer.",
+  "datetime" : "20/05/17 16:00",
+  "imgmid" : "img/new4.jpg",
+  "imgbig" : "a"
+  },
+ {  
+	"id":"new_5",
+	"nav_element":"Noticia 5",
+    "titulo":"¿Vivir mucho sin pasar hambre?",
+    "desc": "Es sabido que la restricción calórica alarga la vida en todos los organismos en que se ha probado: levaduras, gusanos, moscas, ratones y macacos. Científicos de la Universidad de California en Los Angeles (UCLA) revelan ahora una alternativa que funciona muy bien, al menos en gusanos: suplementar la comida con alfa-cetoglutarato, un metabolito implicado en el procesamiento de energía en todas las células. Una dieta normal suplementada con alfa-cetoglutarato alarga la vida del gusano un 50%, tanto como la restricción calórica.",
+	"datetime" : "10/11/17 16:00",
+    "imgmid" : "img/new5.jpg",
+    "imgbig" : "b"
+    },
+   {  
+	  "id":"new_6",
+	  "nav_element":"Noticia 6",
+      "titulo":"Una pieza esencial de la división celular sale a la luz",
+      "desc": "La visualización y seguimiento en vivo de los extremos iniciales de los microtúbulos, filamentos que organizan el huso mitótico, ofrece una imagen más comprensible de su arquitectura dinámica.Los resultados también ayudarán a entender cómo actúan fármacos usados en quimioterapia cuyo blanco son los microtúbulos.Para cada división de una célula en dos se ensambla una estructura extremadamente compleja, el huso mitótico, resultado de la acción coordinada y finamente equilibrada de multitud de proteínas. Buena parte del tiempo que invierte una célula en dividirse lo dedica a ensamblar y poner a punto esta pieza principal de la división, que se asemeja superficialmente a una pelota de rugbi.",
+	  "datetime" : "05/11/17 12:00",
+      "imgmid" : "img/new6.jpg",
+      "imgbig" : "c"
+     
+    }]

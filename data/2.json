@@ -1,0 +1,28 @@
+[{
+  "id":"new_7",
+  "nav_element":"Noticia 7",
+  "titulo":"Investigadores crean un nuevo método capaz de amplificar ADN a partir del genoma de una sola célula",
+  "desc": "Un equipo de investigadores del Consejo Superior de Investigaciones Científicas ha colaborado con la empresa hispano alemana Sygnis AG para desarrollar un nuevo método capaz de amplificar ADN a partir del genoma de una sola célula. El sistema, ya patentado por Sygnis, podría amplificar las minúsculas cantidades de ADN que circulan por el torrente sanguíneo, para posteriormente secuenciar ese material genético e identificar posibles mutaciones relevantes desde un punto de vista diagnóstico o terapeútico.",
+  "datetime" : "10/11/16 10:00",
+  "imgmid" : "img/new7mid.jpg",
+  "imgbig" : "a"
+  },
+ {	
+	"id":"new_8",
+    "nav_element":"Noticia 8",
+    "titulo":"Descubren un nuevo mecanismo que regula la generación de nuevas neuronas modulando el metabolismo",
+    "desc": "Un trabajo liderado por el Consejo Superior de Investigaciones Científicas (CSIC) ha descubierto un nuevo mecanismo por el que las células reprograman su metabolismo, un proceso necesario para la diferenciación de varios tipos celulares. Lo hacen a través de la autofagia, el sistema de reciclaje del organismo por el que las células pueden degradar los componentes intracelulares; concretamente se produce la degradación selectiva y programada de las mitocondrias, que se conoce como mitofagia. El estudio, publicado en The EMBO Journal, permite conocer mejor los mecanismos de reprogramación metabólica durante procesos fisiológicos como el nacimiento de nuevas neuronas y la diferenciación de células del sistema inmune.",
+	"datetime" : "04/05/17 13:00",
+	"imgmid" : "img/new8mid.jpg",
+    "imgbig" : "b"
+    },
+ {	  
+	  "id":"new_9",
+      "nav_element":"Noticia 9",
+      "titulo":"Hallada la ‘fábrica’ de los adenovirus",
+      "desc": "La cápsula de proteínas que contiene y protege el genoma de los adenovirus está formada por más de diez tipos de proteínas, que deben producirse y ensamblarse de forma muy coordinada. El ensamblaje de esta cápsula (o cápsida) y la introducción del genoma en su interior debe ser correcto para que el virus pueda propagarse. Para introducir el genoma dentro de la cápsida existen dos tipos de mecanismos: concertado, en que la cápsula de proteínas se construye en torno al genoma, o secuencial, donde primero se ensambla una cápsida vacía con un canal por el que luego entra el genoma. Aunque los adenovirus se llevan estudiando más de 60 años, no se conocían dos aspectos básicos de su biología: dónde se lleva a cabo el ensamblaje, y mediante cuál de los dos mecanismos se lleva a cabo.",
+	  "datetime" : "10/05/17 15:00",
+	  "imgmid" : "img/new9mid.jpg",
+      "imgbig" : "c"
+      }]
+	
