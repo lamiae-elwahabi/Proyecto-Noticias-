@@ -3,26 +3,26 @@
 
 	<channel>
 		<title>la biologia y sus avances</title>
-		<link>https://rawgit.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/news.html</link>
+		<link>https://rawgit.com/lamiae-elwahabi/Proyecto-Noticias-/master/news.html</link>
 		<description>La ciencia forma parte de nuestra vida!</description>
 		 
 		<image>
 			<title>la biologia y sus avances</title>
-			<url>https://raw.githubusercontent.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/img/logomid.jpg</url>
-			<link>https://rawgit.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/news.html</link>
+			<url>https://raw.githubusercontent.com/lamiae-elwahabi/Proyecto-Noticias-/master/img/logomid.jpg</url>
+			<link>https://rawgit.com/lamiae-elwahabi/Proyecto-Noticias-/master/news.html</link>
 		</image>
 		<pubDate>Wed, 31 May 2017 10:00:00 GMT</pubDate>
 		
 		<item>
 			  <title>Dos proteínas con importantes funciones fisiológicas salen a la luz</title>
-			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/news1.html</link>
+			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-Noticias-/master/news1.html</link>
 			  <description>Las células que forman un organismo pluricelular necesitan estar continuamente comunicándose entre sí y reaccionando frente a cambios en el exterior, a daños o infecciones. Las p38MAPK son una familia de proteínas que participan en los procesos de señalización que coordinan la respuesta celular.
 			  El estudio, publicado en Trends in Biochemical Sciences, destaca el papel de estas proteínas (conocidas como p38 alternativas) en patologías inflamatorias, cáncer, diabetes o procesos neurodegenerativos. Los autores consideran que podrían ser buenas dianas para el desarrollo de nuevas terapias contra estas enfermedades.</description>
 		</item>
 
 		 <item>
 			 <title>Una nueva técnica permite crear células madre de la sangre en el laboratorio</title>
-			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/news2.html</link>
+			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-Noticias-/master/news2.html</link>
 			  <description>Investigadores del Boston Children’s Hospital en EE UU han generado por primera vez en el laboratorio células madre formadoras de sangre usando otras pluripotentes, capaces de producir la mayoría de los tejidos. El avance, publicado en Nature, ayudará a analizar las causas de enfermedades hemotológicas, como la leucemia, y crear células sanguíneas a partir de las propias células del paciente.
  			  "Este paso abre una oportunidad para tomar las células de pacientes con trastornos genéticos de la sangre, usar la edición de genes para corregir su defecto genético y hacer células sanguíneas funcionales”, dice Ryohichi Sugimura, primer autor del estudio e investigador en el Stem Cell Program del hospital, liderado por George Daley, también decano en la Harvard Medical School</description>
 
@@ -30,7 +30,7 @@
 		
 		 <item>
 			 <title>Identifican 6.500 genes cuya expresión difiere entre el hombre y la mujer</title>
-			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-News/master/Proyecto%20Noticias/news.html</link>
+			  <link>https://rawgit.com/lamiae-elwahabi/Proyecto-Noticias-/master/news.html</link>
 			  <description>Hombres y mujeres diferimos de formas más o menos obvias, y ello incluye el predominio de ciertas enfermedades o reacciones ante fármacos. ¿Cómo está todo ello conectado con el sexo de cada cual? El equipo de Moran Gershoni y Shmuel Pietrokovski, del Instituto Weizmann de Ciencia en Israel, ha comprobado que varios miles de genes humanos son expresados (para hacer proteínas) de un modo que difiere entre un sexo y el otro.Lo descubierto indica que ciertas mutaciones dañinas en estos genes en particular tienden a acumularse en la población en frecuencias relativamente altas, y el estudio explica porqué.</description>
 
 		 </item>
