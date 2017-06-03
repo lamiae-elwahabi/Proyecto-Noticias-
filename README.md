@@ -40,10 +40,10 @@ Página web de noticias auto rellenable con scroll (Bootstrap, jQuery, Json, HTM
 #### Hice un dibujo de la idea principal como será mi pagina en escritorio y en movil  
 ![dsc_0198](https://cloud.githubusercontent.com/assets/22870341/26745635/b26be2ec-47eb-11e7-9ff6-336a471446be.jpg)
 
-#### Después de tener más claro el diseño hice este segundo imagen
+#### Después de tener más claro el diseño hice este segundo dibujo
 ![dsc_0197](https://cloud.githubusercontent.com/assets/22870341/26745636/b26c7338-47eb-11e7-90ee-5f098ade1427.jpg)
  
- #### Trabajo realizado
+ #### Tareas realizadas
  * La página principal news.html carga 3 notícias y al hacer scroll apretando el buton cargar mas noticia, carga 3 notícas más desde el   json hasta dos veces.
 * Publicidad a la dercha con 300px de width para versión escritorio.
 * Publicidad abajo de la página con un 90px de altura
@@ -52,6 +52,7 @@ Página web de noticias auto rellenable con scroll (Bootstrap, jQuery, Json, HTM
 * Las tres pagínas contienen etiquetas OpenGraph para compartir la notícia.
 * Decide en eligir el tema de noticias sobre la ciencia y la biologia.
 * La pagina le elige un background de cromosomas, intente que los colores se queden relacionados entre si y tambien relacionados con el tema.
+* la publicidad tiene un link externo.
 * Fue recogiendo noticias de la pagina que mencione abajo.
 * Hice un menu de diferentes ramas de biologia que son link eternos.
 * Añade unos iconos de redes sociales.
