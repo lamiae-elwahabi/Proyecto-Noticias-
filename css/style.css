@@ -1,4 +1,3 @@
-
 body {
     background-image: url(http://www.biology-questions-and-answers.com/images/2000xNxGenetics.jpg.pagespeed.ic.0fELGoDUir.jpg);
 	font-family: 'Open Sans', sans-serif;
@@ -12,7 +11,6 @@ body {
 	margin: 2%;
 	margin-left: 10%;
 	margin-right: 10%;
-	font-family: sans-serif ;
 	
 }
 
@@ -38,7 +36,7 @@ body {
     padding: 5px;
 }
 #publiM {
-    background: #444;
+    background:#BCF5A9;
     height: 90px;
 	width: 100%;
 	text-align: center;
@@ -91,6 +89,7 @@ ul.social li {
 .img-responsive, .center-block {
 	width: 100%;
 }
+
 @media (max-width:992px) {
 	
 
@@ -110,8 +109,6 @@ ul.social li {
 	}
 	
 }
-
-
 nav {
 	
 	background-color: #BCF5A9;
@@ -122,8 +119,8 @@ nav {
     background-color: #BCF5A9;
     z-index: 9999;
     border: 0;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
+    font-size: 12px;
+    line-height: 1.42857143 ;
     letter-spacing: 2px;
 }
 
@@ -195,7 +192,7 @@ nav {
 }
 
 .noticias h2 a {
-	/*color:#01DF74;*/
+/*color:#01DF74;*/
 }
 
 .noticias h2 a:hover {
@@ -237,7 +234,7 @@ nav {
 
 .declaraciones {
 	font-style: italic;
-	color: #6E6E6E;
+	color: #0B3B0B;
 	font-size: 14px;
 }
 
@@ -256,16 +253,18 @@ nav {
 }
 
 .btn:focus {
-	background-color: #1C1C1C;
-	color: #fff;
+	background-color: #0B3B0B;
+	color:#01DF74;
 }
 
 footer {
 	margin-top: 35px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #1C1C1C;
-    color: #fff;
+	background-color: #01DF74;
+    color: #0B3B0B;
+	font-weight: bold;
+
 }
 
 footer .glyphicon {
@@ -287,7 +286,7 @@ footer .glyphicon {
         top: 0;
         left: 0;
         height: 90px;
-        background-color: #B40431;
+        background-color: #01DF74;
     }
 
     .advert-container p{
@@ -308,7 +307,7 @@ footer .glyphicon {
 
 }
 
-/* */
+
 @media (min-width: 768px) and (max-width: 991px) {
     .main-container{
         width: calc(100% - 200px);;
@@ -317,7 +316,7 @@ footer .glyphicon {
     .advert-container{
         width: 200px;
         margin-top: 20px;
-        background-color: #B40431;
+        background-color: #01DF74;
         float:right;
     }
 
@@ -336,7 +335,7 @@ footer .glyphicon {
     }
 }
 
-/*  */
+
 @media (min-width: 992px) { 
     .main-container{
         width: calc(100% - 300px);;
@@ -345,7 +344,7 @@ footer .glyphicon {
     .advert-container{
         width: 300px;
         margin-top: 20px;
-        background-color: #B40431;
+        background-color: #01DF74;
         float:right;
     }
 
@@ -363,5 +362,4 @@ footer .glyphicon {
         padding-top: 5px;
     }
 }
-
 
